@@ -28,10 +28,7 @@ Further work that can be done:
 
 References:
 
-[6] Steven L. Brunton et al. “Chaos as an intermittently forced linear system”. In: Nature
-Communications 8.1 (May 2017). doi: 10.1038/s41467-017-00030-8. url: https:
-//doi.org/10.1038%2Fs41467-017-00030-8.
-[3] David S Broomhead, Gregory P King, et al. “On the qualitative analysis of experimental dynamical systems”. In: Nonlinear phenomena and chaos 113 (1986), p. 114
-[4] Steven L Brunton, Joshua L Proctor, and J Nathan Kutz. “Discovering governing
-equations from data by sparse identification of nonlinear dynamical systems”. In: Proceedings of the national academy of sciences 113.15 (2016), pp. 3932–3937.
+- Steven L. Brunton et al. “Chaos as an intermittently forced linear system”. In: Nature Communications 8.1 (May 2017).
+- David S Broomhead, Gregory P King, et al. “On the qualitative analysis of experimental dynamical systems”. In: Nonlinear phenomena and chaos 113 (1986), p. 114.
+- Steven L Brunton, Joshua L Proctor, and J Nathan Kutz. “Discovering governing equations from data by sparse identification of nonlinear dynamical systems”. In: Proceedings of the national academy of sciences 113.15 (2016), pp. 3932–3937.
 
