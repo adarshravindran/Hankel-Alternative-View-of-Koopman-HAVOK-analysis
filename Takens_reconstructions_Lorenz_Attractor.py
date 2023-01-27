@@ -53,8 +53,6 @@ ax.set_zticks([5, 10, 15, 20, 25, 30, 35, 40, 45])
 ax.set_zlabel('$z$', fontsize=15, rotation = 0)
 ax.set_title("Lorenz System", fontsize=35)
 
-
-# Unable to produce nice images as done in MATLAB. (3D images)
 # Using BDF, different solver to ODE45 which was used in MATLAB. Should not make a major difference.
 
 ################# Part 2: Takens reconstructions #################
@@ -87,7 +85,7 @@ ax.set_title("Taken´s Embedding Approach with tau= " + str(tau))
 
 ################# Part 3: Hankel delay embedding reconstructions #################
 
-# In this section, we reconstruct the X,Y and Z shadow attractors using a Hankel delay embedding.
+# In this section, we reconstruct the X,Y and Z shadow attractors using a Hankel matrix delay embedding.
 
 q=100; # Number of stack shifted rows, cols of Hankel Matrix
 
