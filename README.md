@@ -3,6 +3,8 @@
 
 A Python implementation of the HAVOK analysis.
 
+This work was part of my Masters thesis submitted at the University of Hamburg, Germany. Please feel free to refer to my thesis.
+
 The HAVOK model can be used for qualitative prediction of highly nonlinear and chaotic systems. To summarise, the HAVOK analysis consists of the following steps:
 
 1. Takens' embedding theorem, Hankel matrix and the SVD - One of the most important results in differential topology is the Takens' embedding theorem. It is used to reconstruct a strange attractor (in this case, the Lorenz Attractor) using only a single variable (the x-coordinate in this case). As shown by Broomhead in 1986, in his method of delays, the right singular values from the singular value decomposition (SVD) of a time delayed Hankel matrix of a single variable not only satisfy Takens' embedding theorem, but provide a better reconstruction than using purely time delayed data points of a single variable. The first three right singular vectors form the reconstructed attractor.
